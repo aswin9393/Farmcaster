@@ -1,6 +1,6 @@
 {
-  "name": "a-frame-in-100-lines",
-  "version": "0.9.4",
+  "name": "FARMCASTER",
+  "version": "0.9.5",
   "scripts": {
     "build": "rm -rf .next && next build",
     "dev": "next dev",
